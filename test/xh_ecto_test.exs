@@ -1,8 +1,8 @@
-defmodule XhEctoTest do
+defmodule Xh.EctoTest do
   use ExUnit.Case
-  doctest XhEcto
+  doctest Xh.Ecto
 
   test "greets the world" do
-    assert XhEcto.hello() == :world
+    assert Xh.Ecto.hello() == :world
   end
 end

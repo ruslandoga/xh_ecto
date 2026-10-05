@@ -1,4 +1,4 @@
-defmodule XhEcto.MixProject do
+defmodule Xh.Ecto.MixProject do
   use Mix.Project
 
   def project do

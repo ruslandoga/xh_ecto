@@ -1,6 +1,6 @@
-defmodule XhEcto do
+defmodule Xh.Ecto do
   @moduledoc """
-  Documentation for `XhEcto`.
+  Documentation for `Xh.Ecto`.
   """
 
   @doc """
@@ -8,7 +8,7 @@ defmodule XhEcto do
 
   ## Examples
 
-      iex> XhEcto.hello()
+      iex> Xh.Ecto.hello()
       :world
 
   """
